@@ -7,5 +7,5 @@ Arduino IDE,
 Picsimlab, 
 Sensors, 
 NodeMCU, 
-Red-Node, 
+Node-Red, 
 Thingspeak.
